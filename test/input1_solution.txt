@@ -1,0 +1,5 @@
+A#ABB
+AAA#B
+#CCBB
+DD#BB
+EEEE#
